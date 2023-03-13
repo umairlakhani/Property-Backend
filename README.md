@@ -12,3 +12,8 @@ npm install --force
 #run code
 
 npm run start
+
+
+#url
+
+http://localhost:3000/swagger/user
